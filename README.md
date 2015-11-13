@@ -22,5 +22,5 @@ Here are a few killer apps and ideas that I have found in my obsessive productiv
 
 ## Multi-platform
 
-[emacs todo.txt mode]: (https://github.com/rpdillon/todotxt.el)
-[github]: (https://github.com/)
+[emacs todo.txt mode]: https://github.com/rpdillon/todotxt.el
+[github]: https://github.com/
