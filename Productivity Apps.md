@@ -11,23 +11,31 @@ Here are a few killer apps and ideas that I have found in my obsessive productiv
 ## iOS
 - [slack]
 - [ToDo.txt]
-- wunderlist
-- editorial
-- notesy
+- [Wunderlist]
+- [editorial]
+- [Notesy]
+- [Drafts]
+
 
 > todo: These need linking properly
 
 ## Web
 - [slack]
 - [github]
+- [draftin]
 
 
 ## Multi-platform
 - [atom] is GitHub's editor and thus it is very good at a lot of stuff. It has a lot of packages, including a **todo.txt package**.
 -
 
+[atom]: https://atom.io/
+[Drafts]: http://agiletortoise.com/drafts/
+[draftin]: https://draftin.com/
+[editorial]: http://omz-software.com/editorial/
 [emacs todo.txt mode]: https://github.com/rpdillon/todotxt.el
 [github]: https://github.com/
-[atom]: https://atom.io/
+[Notesy]: http://www.giantyak.com/notesy/index.html
 [slack]: https://slack.com/
 [ToDo.txt]: http://www.todotxt.com/
+[Wunderlist]: https://www.wunderlist.com/
