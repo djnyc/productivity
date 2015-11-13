@@ -15,7 +15,7 @@ Here are a few killer apps and ideas that I have found in my obsessive productiv
 - editorial
 - notesy
 
-todo: These need linking properly
+> todo: These need linking properly
 
 ## Web
 - slack
