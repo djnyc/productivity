@@ -9,8 +9,8 @@ Here are a few killer apps and ideas that I have found in my obsessive productiv
 ## MacOS
 
 ## iOS
-- slack
-- todo.txt
+- [slack]
+- [ToDo.txt]
 - wunderlist
 - editorial
 - notesy
@@ -18,14 +18,16 @@ Here are a few killer apps and ideas that I have found in my obsessive productiv
 > todo: These need linking properly
 
 ## Web
-- slack
+- [slack]
 - [github]
- 
+
 
 ## Multi-platform
 - [atom] is GitHub's editor and thus it is very good at a lot of stuff. It has a lot of packages, including a **todo.txt package**.
-- 
+-
 
 [emacs todo.txt mode]: https://github.com/rpdillon/todotxt.el
 [github]: https://github.com/
 [atom]: https://atom.io/
+[slack]: https://slack.com/
+[ToDo.txt]: http://www.todotxt.com/
