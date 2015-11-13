@@ -21,12 +21,12 @@ Here are a few killer apps and ideas that I have found in my obsessive productiv
 
 ## Web
 - [slack]
-- [github]
+- [GitHub]
 - [draftin]
 
 
 ## Multi-platform
-- [atom] is GitHub's editor and thus it is very good at a lot of stuff. It has a lot of packages, including a **todo.txt package**.
+- [atom] is [GitHub]'s editor and thus it is very good at a lot of stuff. It has a lot of packages, including a **todo.txt package**.
 -
 
 [atom]: https://atom.io/
@@ -34,7 +34,7 @@ Here are a few killer apps and ideas that I have found in my obsessive productiv
 [draftin]: https://draftin.com/
 [editorial]: http://omz-software.com/editorial/
 [emacs todo.txt mode]: https://github.com/rpdillon/todotxt.el
-[github]: https://github.com/
+[GitHub]: https://github.com/
 [Notesy]: http://www.giantyak.com/notesy/index.html
 [slack]: https://slack.com/
 [ToDo.txt]: http://www.todotxt.com/
